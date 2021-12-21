@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @e-light-side
 - 👀 I’m interested in Scratch and open source / collaborative coding.
-- 🌱 I’m currently learning at Athénée Léonie de Waha
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning at Athénée Léonie de Waha in 1st year high school.
+- 💞️ I’m looking to collaborate on any projects 😁😉.
 - 📫 How to reach me : By sending me a mail at : contact.e.lightside@gmail.com
 
 <!---
