@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @e-light-side
+- 👋 Hi, I’m Sacha !
 - 👀 I’m interested in Scratch and open source / collaborative coding.
 - 🌱 I’m currently learning at Athénée Léonie de Waha in 1st year high school.
 - 💞️ I’m looking to collaborate on any projects 😁😉.
